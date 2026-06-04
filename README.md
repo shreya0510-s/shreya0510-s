@@ -27,7 +27,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
 
-🎭 Bharatanatyam Dancer
 
 🌱 Goal
 Become a skilled Software Engineer and Build Applications.
