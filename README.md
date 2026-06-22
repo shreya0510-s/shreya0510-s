@@ -1,10 +1,11 @@
 # Hey, I'm Shreya 👋
 
 🎓 2nd Year IT Engineering Student
+FrontEnd Developer
 
 💻 Currently Learning
 - DSA in Java
-- Frontend Development
+- Full Stack Development
 - UI/UX Design
 
 🚀 Projects
