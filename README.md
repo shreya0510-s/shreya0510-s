@@ -1,6 +1,6 @@
 # Hey, I'm Shreya 👋
 
-🎓 2nd Year IT Engineering Student
+🎓 2nd Year IT Engineering Student | 
 FrontEnd Developer
 
 💻 Currently Learning
@@ -10,7 +10,7 @@ FrontEnd Developer
 
 🚀 Projects
 - MetroEase
-- DSA Tracker
+- TrackIT : DSA Tracker
 - Placement Prep Website
 
 ## 🚀 Tech Stack
