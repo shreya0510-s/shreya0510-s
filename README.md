@@ -79,7 +79,7 @@ A one-stop platform for aptitude, DSA, interview preparation, and progress track
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shreya0510-s/shreya0510-s/output/galaga.svg"/>
+<img src="https://raw.githubusercontent.com/shreya0510-s/shreya0510-s/output/galaga-contribution-graph-dark.svg"/>
 
 </div>
 
